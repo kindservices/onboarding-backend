@@ -1,0 +1,8 @@
+artifactId: onboarding-backend
+artifactVersion: "0.0.1"
+groupId: kind
+packageName: kind.onboarding
+modelPackage: kind.onboarding.model
+apiPackage: kind.onboarding.api
+gitRepoId: kind
+gitUserId: aaronp
